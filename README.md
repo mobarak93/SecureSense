@@ -84,7 +84,7 @@ uv run pytest
 
 ### Required External Files
 
-The following files are **not included** in this repository because of their size or licensing restrictions.
+The following files are **not included** in this repository due to their size or other restrictions.
 
 Place them inside the `models/` directory before running SecureSense.
 
