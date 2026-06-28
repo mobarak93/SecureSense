@@ -36,7 +36,8 @@ SecureSense is an autonomous Healthcare SOC Assistant built on the **Google Agen
 
 
 ##  Diagram 
-[Agent Workflow](https://raw.githubusercontent.com/mobarak93/SecureSense/main/docs/SecureSense.drawio.png)
+[Agent Workflow] 
+(https://raw.githubusercontent.com/mobarak93/SecureSense/main/docs/SecureSense.drawio.png)
 
    User Query
       │
