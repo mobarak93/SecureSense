@@ -1,12 +1,22 @@
 #  SecureSense
-> Healthcare IoT Security Intelligence Agent
+>SecureSense is a **Healthcare IoT Security 
+Intelligence Agent** built for the Kaggle 
+5-Day AI Agents Capstone (Agents for Good).
 
+It combines **real ML intrusion detection** 
+(XGBoost, 99.44% accuracy) with **5 specialized 
+ADK 2.0 agents** that detect threats, audit 
+compliance, investigate incidents, and score 
+patient safety risk — all through a custom 
+**9-tool FastMCP server**.
+
+Built using **Antigravity 2.0** vibe coding
 
 
 
 ##  Problem
 
-Healthcare IoT devices are life-critical but constantly targeted by cyberattacks. Traditional security tools lack clinical context — treating a pacemaker (98/100 criticality) the same as a smart thermostat (20/100 criticality). Isolating a device blindly to stop an attack can cause fatal patient hazards.
+Healthcare IoT devices are life-critical but constantly targeted by cyberattacks. Traditional security tools lack clinical context, treating a pacemaker (98/100 criticality) the same as a smart thermostat (20/100 criticality). Isolating a device blindly to stop an attack can cause fatal patient hazards.
 
 Critical clinical assets monitored:
 - Pacemaker Controller (98/100 criticality, Patient Multiplier: 1.0)
