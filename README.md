@@ -7,10 +7,10 @@ It combines **real ML intrusion detection**
 (XGBoost, 99.44% accuracy) with **5 specialized 
 ADK 2.0 agents** that detect threats, audit 
 compliance, investigate incidents, and score 
-patient safety risk — all through a custom 
+patient safety risk throughout a custom 
 **9-tool FastMCP server**.
 
-Built using **Antigravity 2.0** vibe coding
+Built using **Antigravity 2.0** vibe coding.
 
 
 
